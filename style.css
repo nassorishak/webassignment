@@ -1,0 +1,59 @@
+h1{
+	text-align: center;
+	text-transform: capitalize;
+	background-position: center;
+	border-collapse: collapse;
+	background-color: rgb(255 , 125 ,00);
+}
+tr{
+	text-align: center;
+	text-transform: capitalize;
+	background-position: center;
+	border-collapse: collapse;
+	background-color: rgb(255 , 100 ,125);
+	
+	padding-right:20px;
+	padding-left: 150px
+	padding-tpo:200px;
+	padding-bottom: 150px;
+	
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 200px;
+	margin-bottom:200px;
+}
+p{
+	text-align: left;
+	text-transform: capitalize;
+	background-position: center;
+	border-collapse: collapse;
+	background-color: rgb(255, 100,75);
+}
+
+.view{
+	text-align: center;
+	background-position: center;
+	background-color: rgb(227  , 78  ,00);
+}
+
+.log{
+	text-align: center;
+	background-position: center;
+	background-color: rgb(227  , 78  ,00);
+	float: right;
+}
+
+#register{
+	text-align: center;
+	background-position: center;
+	background-color: rgb(227  , 78  ,00);
+	grid-auto-flow: dense;
+	float: right;
+}
+
+#click{
+	text-align: center;
+	background-position: center;
+	background-color: rgb(227  , 78  ,00);
+	float: right;
+}
