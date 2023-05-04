@@ -57,3 +57,28 @@ p{
 	background-color: rgb(227  , 78  ,00);
 	float: right;
 }
+ul{
+					margin-top: 0;
+					margin-bottom: 0;
+				}
+				li{
+					display: inline-block;
+				}
+				li a{
+					text-decoration: none;
+					display: inline-block;
+					d
+					float: right;
+					width: 50%;
+					margin-left: 50px;
+
+				}
+				 ul a:hover{
+					color: black;
+					background-color: yellowgreen;
+				}
+				ul li a{
+					display: inline-block;
+					width: 50%;
+
+				}
